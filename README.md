@@ -1,10 +1,12 @@
 # Barry Sheehan 👋
-Java | HTML | CSS | JavaScript
+Full Stack Software Developer: Angular | PHP | SQL
+
+I also work with: Java | JavaScript | HTML | CSS
 
 ## 😃 I am...
-A software developer at the tail end of my studies in Computer Science at GMIT. A former web development instructor, and currently a professional graphic / multimedia designer.
+A full stack software developer in Cork, Ireland. A former graphic and multimedia designer.
 
-Besides that, I'm a musician and multi-instrumentalist with an interest in most any kind of music.
+I'm also a musician with an interest in most any kind of music.
 
 ## 🔥 Take a look at some projects...
 - Java & Object-Oriented Programming: [TextSimplifier](https://github.com/barrymsheehan/TextSimplifier)
@@ -17,3 +19,4 @@ You're a software developer at any stage of your studies or career, you're a gra
 ## 📫 Connect with me on...
 - Twitter - [@barrymsheehan](https://twitter.com/barrymsheehan)
 - LinkedIn - [Barry Sheehan](https://www.linkedin.com/in/barrymsheehan/)
+- Polywork - [Barry Sheehan](https://www.polywork.com/barry_sheehan)
